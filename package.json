@@ -1,0 +1,8 @@
+{
+  "name": "ill-intent",
+  "version": "1.0.0",
+  "description": "Ill x Intent Vintage — Longview TX vintage store site (static + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
