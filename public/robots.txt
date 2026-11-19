@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ill-intent-production.up.railway.app/sitemap.xml
+Sitemap: https://ill-intent-demo.up.railway.app/sitemap.xml
